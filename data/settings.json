@@ -16,13 +16,13 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://source.unsplash.com/random",
+      "src": "https://jsd.cdn.zzko.cn/gh/cnxg5/PicGO@main/img/794fc0baa889ae0375acc88d4e3a8254.avif",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://source.unsplash.com/random",
+      "src": "https://jsd.cdn.zzko.cn/gh/cnxg5/PicGO@main/img/f885be65f72933b001e7bb2e522d1d6e.avif",
       "url": "",
       "width": null,
       "height": null
@@ -33,20 +33,20 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://source.unsplash.com/random",
+      "src": "https://source.unsplash.com/random/1920x1080",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://source.unsplash.com/random",
+      "src": "https://www.toptal.com/designers/subtlepatterns/uploads/more-leaves.png",
       "url": "",
       "width": null,
       "height": null
     }
   ],
   "sideThemeHeight": 350,
-  "sideThemeAutoplay": true,
+  "sideThemeAutoplay": false,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
