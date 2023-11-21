@@ -33,19 +33,19 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://plus.unsplash.com/premium_photo-1681412205724-067303630816",
+      "src": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://images.unsplash.com/photo-1699192781399-e2275a9f60b6",
+      "src": "https://source.unsplash.com/random/1920x1080",
       "url": "",
       "width": null,
       "height": null
     }
   ],
-  "sideThemeHeight": 1000,
+  "sideThemeHeight": 600,
   "sideThemeAutoplay": false,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
