@@ -7,6 +7,22 @@
     "isInner": true
   },
   {
+    "name": "开发者",
+    "url": "https://kaifa.baidu.com/searchPage?wd=",
+    "icon": "https://kaifa.baidu.com/assets/favicon.ico",
+    "placeholder": "",
+    "blocked": false,
+    "isInner": false
+  },
+  {
+    "name": "无追",
+    "url": "https://www.wuzhuiso.com/s?q=",
+    "icon": "https://www.wuzhuiso.com/favicon.ico",
+    "placeholder": "",
+    "blocked": false,
+    "isInner": false
+  },
+  {
     "name": "百度",
     "url": "https://www.baidu.com/s?wd=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
